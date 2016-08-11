@@ -1,0 +1,27 @@
+{
+  "name": "chai-moca",
+  "version": "1.0.0",
+  "description": "chai-moca intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Fola Ayinde",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazzyF/chai-mocha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jazzyF/chai-mocha/issues"
+  },
+  "homepage": "https://github.com/jazzyF/chai-mocha#readme"
+}
